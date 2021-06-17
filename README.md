@@ -1,15 +1,22 @@
 ## Overview
 
 [Progress Report](#progress-report)
+
 [Design and Requirement](#design-and-requirement)
+
 [Stack used in this project](#stack-used-in-this-project)
+
 [Importing Database](#importing-database)
+
 [Running the Server](#running-the-server)
+
 [Running the Client](#running-the-client)
 
 
 Submission for Hilal Arsa Himawan (hilalarsa@gmail.com)
+
 Repository available on github.com/hilalarsa/paypay
+
 Total time elapsed : 8 hr
 
 ## Progress Report
